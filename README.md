@@ -59,4 +59,4 @@ Contributions are highly welcome. In order for a contribution to be merged, plea
 - In general, we would like to keep `concurrent-map` as simple as possible and as similar to the native `map`. Please keep this in mind when opening issues.
 
 ## license
-MIT (see [LICENSE](https://github.com/orcaman/concurrent-map/blob/master/LICENSE) file)
+MIT (see [LICENSE](https://github.com/orcaman/concurrent-map/blob/master/LICENSE) file).
